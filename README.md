@@ -9,3 +9,5 @@ This repository is forked from https://github.com/UTA-DataScience/DATA3461.Fall.
 - <b>Lab 3 Part 2:</b> Practice Lab - Decision Trees
 - <b>Lab 4 Part 1:</b> Anomaly Detection
 - <b>Lab 4 Part 2:</b> K-Means Clustering
+- <b>Lab 4 Part 3:</b> Practice Lab: Collaborative Filtering Recommender Systems
+- <b>Lab 4 Part 4:</b> Practice Lab: Deep Learning for Content-Based Filtering
