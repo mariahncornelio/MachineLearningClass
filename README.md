@@ -11,3 +11,4 @@ This repository is forked from https://github.com/UTA-DataScience/DATA3461.Fall.
 - <b>Lab 4 Part 2:</b> K-Means Clustering
 - <b>Lab 4 Part 3:</b> Practice Lab: Collaborative Filtering Recommender Systems
 - <b>Lab 4 Part 4:</b> Practice Lab: Deep Learning for Content-Based Filtering
+- <b>Lab 4 Part 5:</b> Deep Q-Learning - Lunar Lander
